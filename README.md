@@ -1,61 +1,45 @@
-<h1 align="center">Hi there 👋 I'm Fawad Hussain</h1>
-<h3 align="center">🚀 Digital Entrepreneur | Building Web Businesses Across Hospitality, Tourism, ISP & E-Commerce</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HFawad0231&label=Profile%20Views&color=c9a84c&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/badge/Location-Skardu%20%7C%20Islamabad%2C%20Pakistan-c9a84c?style=flat" alt="location" />
-</p>
+# Fawad Hussain
+
+### Digital Entrepreneur
+**Hospitality · Tourism · ISP · E-Commerce · SEO**
+
+[![Profile Views](https://komarev.com/ghpvc/?username=HFawad0231&label=Profile%20views&color=0f6e56&style=flat)](https://github.com/HFawad0231)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B92318513577-25D366?logo=whatsapp&style=social)](https://wa.me/923185133577)
+
+</div>
 
 ---
 
-## 🧭 About Me
+## About Me
 
 I'm a digital entrepreneur based in Islamabad / Skardu, Gilgit-Baltistan, Pakistan, building and operating a portfolio of revenue-generating websites across hospitality, tourism, ISP, e-commerce, and minerals export. I specialize in SEO, lead generation, and performance-optimized websites, deployed on Cloudflare Pages and Vercel — every project engineered to rank, convert, and run on zero recurring cost until it earns its keep.
 
-- 🏔️ Operating out of Gilgit-Baltistan, the gateway to the Karakoram
-- 🛠️ Hands-on across full-stack development, SEO, analytics, and OTA/PMS operations
-- 📈 Focused on organic growth — every site is built to rank, load fast, and generate leads
-- 🤝 Open to collaboration on hospitality tech, travel platforms, and SEO-driven web projects
+- 🏔️ **Operating out of:** Gilgit-Baltistan, the gateway to the Karakoram
+- 🛠️ **Hands-on across:** Full-stack development, SEO, analytics, and OTA/PMS operations
+- 📈 **Focused on:** Organic growth — every site is built to rank, load fast, and generate leads
+- 🤝 **Open to:** Collaboration on hospitality tech, travel platforms, and SEO-driven web projects
+- 📫 **Reach me at:** [fawadh0231@gmail.com](mailto:fawadh0231@gmail.com)
 
 ---
 
-## 🏢 Businesses I Own & Operate
+## Businesses I Own & Operate
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-🌸 **The Scent House**
+### 🌸 The Scent House
 Premium fragrance & perfume e-commerce
 
----
-
-🌐 **FastFlashFiber**
+### 🌐 FastFlashFiber
 PTCL Flash Fiber internet reseller — Islamabad & Rawalpindi
 
-</td>
-    <td width="50%" valign="top">
-
-🛡️ **BizLiabilityGuide**
+### 🛡️ BizLiabilityGuide
 Programmatic SEO content — US business liability insurance
 
----
-
-⛰️ **Peaks of Pakistan**
+### ⛰️ Peaks of Pakistan
 Pakistan travel & tourism guides
 
-</td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-💎 **Astore Gems & Minerals**
+### 💎 Astore Gems & Minerals
 SECP-registered mineral exploration & export, Gilgit-Baltistan
-
-</td>
-    <td width="50%" valign="top"></td>
-  </tr>
-</table>
 
 ---
 
@@ -72,54 +56,62 @@ A luxury hotel & tours group across Skardu, Gilgit-Baltistan — 4 properties, 1
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-</p>
+### Languages
+![HTML5](https://skillicons.dev/icons?i=html)
+![CSS3](https://skillicons.dev/icons?i=css)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![TypeScript](https://skillicons.dev/icons?i=typescript)
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" />
-  <img src="https://img.shields.io/badge/SEO-Schema.org-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-</p>
+### Frontend
+![Next.js](https://skillicons.dev/icons?i=nextjs)
+![React](https://skillicons.dev/icons?i=react)
+![Tailwind CSS](https://skillicons.dev/icons?i=tailwindcss)
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
 
----
+### Backend & Databases
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
 
-## 📊 GitHub Stats
+### DevOps & Cloud
+![Cloudflare](https://skillicons.dev/icons?i=cloudflare)
+![Vercel](https://skillicons.dev/icons?i=vercel)
+![AWS](https://skillicons.dev/icons?i=aws)
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HFawad0231&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0A0A&title_color=C9A84C&icon_color=C9A84C&text_color=E8E0D0" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=HFawad0231&theme=tokyonight&hide_border=true&background=0A0A0A&ring=C9A84C&fire=C9A84C&currStreakLabel=C9A84C" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HFawad0231&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0A0A&title_color=C9A84C&text_color=E8E0D0" />
-</p>
+### Tools
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![VS Code](https://skillicons.dev/icons?i=vscode)
 
 ---
 
-## 📫 Connect With Me
+## GitHub Stats
 
-<p align="left">
-  <a href="https://wa.me/923185133577" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-  <a href="mailto:fawadh0231@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<div align="center">
 
-📞 +92 318 5133577 &nbsp; ✉️ fawadh0231@gmail.com
+<img src="https://github-readme-stats.vercel.app/api?username=HFawad0231&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&locale=en" height="170" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=HFawad0231&locale=en&theme=tokyonight&layout=compact&hide_border=true" height="170" alt="Top Languages" />
+
+<img src="https://streak-stats.demolab.com/?user=HFawad0231&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
+
+</div>
 
 ---
 
-<p align="center"><i>Building self-sustaining, high-ranking web businesses — one valley, one client, one query at a time.</i></p>
+## Connect with Me
+
+<div align="left">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HFawad0231)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923185133577)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fawadh0231@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+<sub>Building self-sustaining, high-ranking web businesses — one valley, one client, one query at a time.</sub>
+</div>
